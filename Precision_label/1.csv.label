@@ -1,0 +1,505 @@
+
+spo
+sent
+label
+type
+0
+"girl want a "" gay best friend"
+girls want a “ gay best friend “ 
+1
+
+1
+red panda try to pounce on each other
+red pandas always try to pounce on each other 
+1
+
+2
+trichiniasis has_property worked
+trichiniasis is worked 
+0
+event
+3
+donna be killed off in mamma mia
+donna is killed off in mamma mia 
+0
+event
+4
+newark has_property gentrifying
+newark is gentrifying 
+1
+
+5
+performance be on box one
+performance is on the box one 
+0
+ambiguous
+6
+giraffe lay down
+giraffes lay down 
+0
+event
+7
+windmill has_trait active
+windmills are active 
+1
+
+8
+tatou has_property irish
+tatous are irish 
+0
+instance
+9
+elena has_property rich
+elena is rich 
+0
+instance
+10
+max heart rate can change
+max heart rates can change 
+1
+
+11
+car engine has_trait nice
+car engine is nice 
+0
+instance
+12
+shooting has_property squeaking
+shootings are squeaking 
+1
+
+13
+credit card interest rate has_property ooredoo
+credit card interest rates are ooredoo 
+1
+
+14
+baby sleeping bag has_trait transparent
+baby sleeping bags are transparent 
+1
+
+15
+amazon prime shipping has_property rhino
+amazon prime shipping is rhino 
+1
+
+16
+soy milk has_property dwarf
+soy milk is dwarf 
+0
+prejudge
+17
+moving water has_property ideal
+moving water is ideal 
+0
+ambiguous
+18
+charge work poe
+charges work poe 
+0
+ambiguous
+19
+playoff work has_property with
+a playoff work is with 
+0
+ambiguous
+20
+castel san pietro terme has_property gba
+castel san pietro terme is gba 
+1
+
+21
+league of legends has_property bbc
+league of legends is bbc 
+0
+incorrect
+22
+hotel tuck in the bed sheets
+hotels tuck in the bed sheets 
+1
+
+23
+voter influence members of congress
+voters influence members of congress 
+1
+
+24
+tax refund has_property sir lana
+tax refunds are sir lana 
+0
+ambiguous
+25
+old person smell like sour milk
+old people smell like sour milk 
+0
+prejudge
+26
+ethnic has_property via
+ethnics are via 
+0
+ambiguous
+27
+survivor contestant has_time yesterday
+survivor contestant is yesterday 
+0
+ambiguous
+28
+diesel fuel injector has_property upgrade
+a diesel fuel injector is upgrade 
+0
+event
+29
+unionization has_property rec
+unionizations are rec 
+1
+
+30
+realtor get into houses
+realtors get into houses 
+0
+event
+31
+everyone else has_property sea
+everyone else is sea 
+0
+incorrect
+32
+poor person call rich people poor
+poor people seem to call rich people poor 
+0
+incorrect
+33
+lyon has_property built
+lyons are built 
+0
+event
+34
+sanitation has_property important in the cosmetology field
+sanitation is important in the cosmetology field 
+1
+
+35
+kangaroo interact with each other
+kangaroos interact with each other 
+1
+
+36
+ohio state university has_trait vulnerable
+ohio state university is vulnerable 
+0
+ambiguous
+37
+hinduism can celebrate
+hinduism celebrate 
+0
+event
+38
+ragtime be related to jazz
+ragtime is related to jazz 
+1
+
+39
+prolactin can cut
+prolactins cut 
+0
+event
+40
+groom take 7 rounds
+bride and groom take 7 rounds 
+0
+instance
+41
+8 year old boy has_trait irrational
+8 year old boy is irrational 
+1
+
+42
+apple tv stop weekly streaming
+apple tv stop weekly streaming 
+0
+instance
+43
+true religion jean has_property ombre
+true religion jeans are ombre 
+1
+
+44
+uk participate in eu elections
+uk want to participate in eu elections 
+0
+event
+45
+measuring cylinder be used to collect gas
+a measuring cylinder is used to collect gas 
+1
+
+46
+roofing has_manner hard
+roofing so is hard 
+1
+
+47
+black bean has_property tnt
+black beans are tnt 
+0
+ambiguous
+48
+skateboard has_property warren
+skateboards are warren 
+0
+ambiguous
+49
+disney ruin star wars
+disney is ruining star wars 
+0
+prejudge
+50
+rapateaceae has_property family
+a rapateaceae is family 
+1
+
+51
+auriscope has_property yes
+auriscopes are yes 
+0
+ambiguous
+52
+superboy have telekinesis
+superboy have telekinesis 
+1
+
+53
+polymer has_property easy
+polymers are easy 
+0
+ambiguous
+54
+butterfly has_property advanced insects
+butterflies are advanced insects 
+1
+
+55
+jellyfish has_property thriving
+jellyfish are thriving 
+1
+
+56
+pothole appear after cold weather
+potholes appear after cold weather 
+1
+
+57
+turkish lira has_property forecast
+turkish lira is forecast 
+0
+ambiguous
+58
+bed bug has_property hp
+bed bugs are hp 
+1
+
+59
+order has_property bad
+orders are bad 
+0
+fictive
+60
+piece move in way
+pieces move in the way govt does in chess 
+1
+
+61
+dimple has_property back formed
+back dimples are formed 
+1
+
+62
+lake has_property red assassin 's creed
+the red lake is red assassin's creed 
+0
+fictive
+63
+myocardial infarction has_property known as
+a myocardial infarction is known as 
+0
+ambiguous
+64
+bryant has_property university
+bryant is university 
+1
+
+65
+general anesthesia has_property upset
+general anesthesia is upset 
+1
+
+66
+rise has_trait open
+rise is open 
+0
+ambiguous
+67
+paul worry as terribly afraid
+paul worry about being as terribly afraid 
+0
+event
+68
+pineapple juice has_property toque
+pineapple juice is toque 
+0
+fictive
+69
+voldemort has_property is ignored by other countries
+voldemort is being ignored by other countries 
+0
+fictive
+70
+cell phone plan has_property but
+cell phone plans are but 
+0
+ambiguous
+71
+tera has_place away
+tera is away 
+0
+instance
+72
+pori has_property okay
+pori is okay 
+0
+ambiguous
+73
+zill has_property calculi
+zill is calculi 
+1
+
+74
+stir has_place up
+stirs are up 
+0
+ambiguous
+75
+ladybird can come
+ladybirds come 
+0
+event
+76
+donkey has_property award
+donkeys is award 
+0
+ambiguous
+77
+bladder infection has_property cellulite
+bladder infections are cellulite 
+1
+
+78
+pigs has_property bad for the environment
+pigs are bad for the environment 
+1
+
+79
+show can is
+shows is 
+0
+ambiguous
+80
+digital be than better analog
+digital better is than analog for transmitting data 
+1
+
+81
+peel has_property case
+peels are case 
+1
+
+82
+stall can yield
+stalls yield 
+1
+
+83
+phone call has_property ski
+phone call is ski 
+0
+fictive
+84
+restauranter can swim
+restauranters swim 
+0
+event
+85
+flash has_property irritated
+flashes are irritated 
+1
+
+86
+option has_movement running
+options are running 
+0
+event
+87
+uma has_property question
+umas is question 
+1
+
+88
+popper can smell
+poppers smell 
+1
+
+89
+friday night light has_property ifs
+friday night lights are ifs 
+0
+ambiguous
+90
+the president can check the power supreme court
+the president can check the power supreme court 
+1
+
+91
+half-pint has_property palomino
+half-pint is palomino 
+1
+
+92
+yeast infection has_property cfo
+yeast infections are cfo 
+1
+
+93
+george washington be important to virginia
+george washington was important to virginia 
+1
+
+94
+unemployment have waiting week
+unemployment have a waiting week 
+1
+
+95
+preschool teacher has_trait knowledge
+a preschool teacher is knowledge 
+1
+
+96
+transform boundary has_property result
+a transform boundary is results 
+1
+
+97
+cystic fibrosis affect immune system
+cystic fibrosis affect the immune system 
+1
+
+98
+actor can squeeze
+actors squeeze 
+0
+event
+99
+house get cold in winter
+a house gets cold in winter if the boiler goes off 
+1
+

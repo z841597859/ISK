@@ -1,0 +1,255 @@
+
+spo
+sent
+label
+type
+0
+regulator has_property available
+regulator is available 
+0
+ambiguous
+1
+wildfire be in greece
+wildfires are in greece 
+1
+
+2
+moose have large antlers
+moose have large antlers 
+1
+
+3
+tennis court oath has_property empty
+tennis court oath is empty 
+0
+ambiguous
+4
+visitor reach statue of liberty
+visitors reach the statue of liberty 
+0
+event
+5
+psychology has_property studied
+psychology is studied 
+0
+ambiguous
+6
+korean student use study timer
+korean students use a study timer 
+0
+event
+7
+space station stay warm
+space stations stay warm 
+1
+
+8
+lemon tree can jump
+lemon trees can jump 
+0
+fictive
+9
+many man prefer muscle over stamina
+many men prefer muscle over stamina 
+0
+prejudge
+10
+maalox can quilt
+maaloxes quilt 
+1
+
+11
+jamaican blue mountain coffee has_property much
+jamaican blue mountain coffee is much 
+1
+
+12
+security has_property aka
+securities are aka 
+0
+ambiguous
+13
+natural disaster change environment
+natural disasters change the environment 
+1
+
+14
+attitude affect individuals with sensory loss
+attitudes and beliefs affect individuals with sensory loss 
+1
+
+15
+many fake account has_property same
+many fake accounts are same 
+0
+ambiguous
+16
+pickup truck has_property nj
+pickup trucks are nj 
+0
+ambiguous
+17
+dna can twist
+dna twist 
+1
+
+18
+zebra feel running
+zebra feel about running 
+0
+ambiguous
+19
+anxiety can air
+anxiety air 
+1
+
+20
+photosynthesis exemplify the laws of thermodynamics
+photosynthesis and cellular respiration exemplify the laws of conservation of matter and thermodynamics 
+1
+
+21
+dl be calculated in cricket
+dls is calculated in cricket 
+1
+
+22
+holiday pay has_property 1207
+holiday pay is 12.07 
+0
+instance
+23
+assault be supposed to be fun
+assault is supposed to be fun 
+0
+fictive
+24
+aircraft has_color green
+aircraft are green 
+0
+instance
+25
+capture card has_property validated
+capture cards are validated 
+1
+
+26
+low has_property lymphocytes
+low is lymphocytes 
+1
+
+27
+chesapeake bay bridge has_time updated
+chesapeake bay bridge is updated 
+0
+event
+28
+rivera has_property iced
+rivera is iced 
+0
+evnet
+29
+acetone has_property epidemic
+acetone is epidemic 
+1
+
+30
+zebra has_property top
+a zebra is top 
+0
+ambiguous
+31
+breath has_property ionic
+breath is ionic 
+0
+ambiguous
+32
+glacial acetic acid has_movement slow
+glacial acetic acid is slow 
+1
+
+33
+playground has_time yet
+playground is out yet 
+0
+ambiguous
+34
+labor has_property ensures
+labor is ensures 
+1
+
+35
+heartbreaker can occur
+heartbreaker occur 
+0
+event
+36
+salamander has_property aquarium
+salamander is aquarium 
+1
+
+37
+some number show up on verizon bill
+some numbers not show up on verizon bill 
+0
+event
+38
+margaret be female gauge spying
+margaret was female gauge spying 
+0
+instance
+39
+essay can dog
+essays dog 
+0
+fictive
+40
+contact has_property mvp
+contacts are mvp 
+0
+fictive
+41
+blind person learn understand
+a blind person learn to understand perspective 
+0
+event
+42
+kidney stone pass through urine
+kidney stone pass through urine 
+1
+
+43
+python can echo
+pythons echo 
+0
+ambiguous
+44
+24 hour urine test has_property rdp
+24 hour urine tests are rdp 
+1
+
+45
+puppies eye has_property mlk
+puppies eyes are mlk 
+1
+
+46
+shoe has_property penney
+shoes are penney 
+0
+ambiguous
+47
+jade plant has_property text
+jade plants are text 
+1
+
+48
+arches national park has_property per
+arches national park is per 
+0
+ambiguous
+49
+ginch has_movement quick
+ginch is quick 
+1
+

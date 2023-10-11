@@ -1,0 +1,505 @@
+
+spo
+sent
+label
+type
+0
+policy contribute to productivity
+Most policy contributes to productivity.
+0
+prejudge
+1
+sewage include nitrate
+Most sewage includes nitrate.
+1
+
+2
+decision base on logic
+Most decisions base on logic.
+1
+
+3
+tapir have brown coat
+Most tapirs have brown coats.
+1
+
+4
+output control activation
+Most output controls activations.
+0
+ambiguous
+5
+flower include ovule
+Most flowers include ovules.
+1
+
+6
+matter accumulate in water
+Most matter accumulates in water.
+0
+ambiguous
+7
+pesticide come from source
+Most pesticide comes from sources.
+0
+ambiguous
+8
+minimum temperature exceed temperature
+Most minimum temperature exceeds temperature.
+0
+incorrect
+9
+scientist observe magnetic disturbance
+Most scientists observe magnetic disturbances.
+0
+event
+10
+temperature increase metabolism
+Most temperature increases metabolism.
+1
+
+11
+region include major city
+Most regions include major cities.
+0
+incorrect
+12
+juvenile alligator eat fish
+Most juvenile alligators eat fish.
+1
+
+13
+animal inhabit bottom
+Most animals inhabit bottoms.
+0
+incorrect
+14
+dolphin have year lifespan
+Most dolphins have year lifespans.
+1
+
+15
+farm affect weather pattern
+Most farms affect weather patterns.
+0
+incorrect
+16
+air have earth
+Most air has earth.
+0
+incorrect
+17
+blood have low hemoglobin level
+Most blood has low hemoglobin levels.
+0
+instance
+18
+airport have many more flight
+Most airports have many more flight.
+1
+
+19
+owner say kudu
+Most owners say kudus.
+0
+ambiguous
+20
+designer reveal limitation
+Most designers reveal limitations.
+0
+prejudge
+21
+plant grow in temperature
+Most plants grow in temperature.
+1
+
+22
+animal live in food
+Most animals live in food.
+1
+
+23
+rabbit show presence
+Most rabbits show presence.
+0
+event
+24
+nutrient provide health benefit
+Most nutrients provide health benefits.
+1
+
+25
+capsule protect cartilage
+Most capsules protect cartilages.
+1
+
+26
+effort provide resource
+Most effort provides resources.
+1
+abstract
+27
+bird undertake journey
+Most birds undertake journeys.
+0
+event
+28
+most desert animal get water
+Most most desert animals get water.
+1
+
+29
+attack show success
+Most attacks show success.
+0
+prejudge
+30
+factor make complexity
+Most factors make complexity.
+1
+
+31
+treatment reduce urinary excretion
+Most treatments reduce urinary excretion.
+0
+instance
+32
+ripple associate with alternate current electricity
+Most ripples associate with alternate current electricity.
+1
+
+33
+site provide route
+Most sites provide routes.
+1
+
+34
+safety depend on judgment
+Most safety depends on judgment.
+1
+
+35
+mother die of cause
+Most mothers die of causes.
+0
+instance
+36
+pine shaving release compound
+Most pine shavings release compounds.
+1
+
+37
+medical device contain latex
+Most medical devices contain latex.
+1
+
+38
+high rainfall affect fruit flavor
+Most high rainfall affects fruit flavor.
+1
+
+39
+baboon acquire intelligence
+Most baboons acquire intelligence.
+1
+
+40
+fiber hit structure
+Most fiber hits structures.
+1
+
+41
+tortoise consume plenty
+Most tortoises consume plenty.
+1
+
+42
+uptake involve ammonium
+Most uptake involves ammonium.
+1
+
+43
+other mineral find in grain
+Most other minerals find in grain.
+1
+
+44
+approach require effort
+Most approaches require effort.
+1
+
+45
+bath add cold water
+Most baths add cold water.
+1
+
+46
+tank have benefit
+Most tanks have benefits.
+0
+ambiguous
+47
+pressure affect elongation
+Most pressure affects elongation.
+1
+
+48
+man risk life
+Most men risk life.
+0
+ambiguous
+49
+opportunistic pathogen cause serious infection
+Most opportunistic pathogen causes serious infection.
+1
+
+50
+porcupine eat vegetable
+Most porcupines eat vegetables.
+1
+
+51
+radar map show boundary
+Most radar maps show boundaries.
+1
+
+52
+attack provide inspiration
+Most attacks provide inspiration.
+1
+
+53
+sporophyte give spore
+Most sporophytes give spores.
+1
+
+54
+plate create pouch
+Most plates create pouches.
+0
+incorrect
+55
+waiter provide service
+Most waiters provide services.
+1
+
+56
+firm take aspect
+Most firms take aspects.
+1
+
+57
+damage affect memory
+Most damage affects memory.
+1
+
+58
+event involve activity
+Most events involve activities.
+1
+
+59
+fiber diet help healthy skin
+Most fiber diets help healthy skin.
+1
+
+60
+secretary go through reaction
+Most secretaries go through reaction.
+0
+instance
+61
+pad provide sustenance
+Most pads provide sustenance.
+0
+incorrect
+62
+adult have skin
+Most adults have skin.
+1
+
+63
+value come from parent
+Most values come from parents.
+0
+prejudge
+64
+waste call waste
+Most waste calls waste.
+0
+ambiguous
+65
+dire wolf emerge from different location
+Most dire wolves emerge from different locations.
+1
+
+66
+student explain job
+Most students explain jobs.
+0
+event
+67
+common illness affect visitor
+Most common illnesses affect visitors.
+0
+ambiguous
+68
+wine make from ferment grape
+Most wine makes from ferment grapes.
+1
+
+69
+cell division result in embryo
+Most cell division results in embryos.
+1
+
+70
+difference say pattern
+Most differences say patterns.
+1
+
+71
+clay have low permeability
+Most clay has low permeability.
+1
+
+72
+length may have effect
+Most length mays have effects.
+1
+
+73
+gas apply pressure
+Most gases apply pressure.
+1
+
+74
+student write theory
+Most students write theories.
+0
+instance
+75
+small round berry grow on huckleberry bush
+Most small round berries grow on huckleberry bushes.
+1
+
+76
+plant contain fluid
+Most plants contain fluid.
+1
+
+77
+baby receive parent
+Most babies receive parents.
+1
+
+78
+equipment have electricity
+Most equipment has electricity.
+1
+
+79
+passenger enter station
+Most passengers enter stations.
+1
+
+80
+test reveal anemia
+Most tests reveal anemia.
+0
+instance
+81
+blockage cause medical problem
+Most blockage causes medical problems.
+1
+
+82
+hinge region have property
+Most hinge regions have properties.
+0
+ambiguous
+83
+plant produce electricity
+Most plants produce electricity.
+1
+
+84
+player see decoration
+Most players see decoration.
+0
+ambiguous
+85
+diffusion test require measurement
+Most diffusion tests require measurements.
+1
+
+86
+oxidation occur in metabolism
+Most oxidation occurs in metabolism.
+1
+
+87
+goldfinch find food
+Most goldfinches find food.
+1
+
+88
+death see brain death
+Most death sees brain death.
+1
+
+89
+breeder seek cow
+Most breeders seek cows.
+0
+event
+90
+duck mate for life
+Most ducks mate for life.
+1
+
+91
+human affect evolution
+Most humans affect evolution.
+1
+
+92
+intestinal infection cause by tiny parasitic worm
+Most intestinal infection is caused by tiny parasitic worms.
+1
+
+93
+calf survive on food
+Most calves survive on food.
+1
+
+94
+danger arise from wind
+Most danger arises from wind.
+1
+
+95
+dust particle enter eye
+Most dust particles enter eyes.
+0
+event
+96
+cat develop compulsive behavior
+Most cats develop compulsive behavior.
+0
+instance
+97
+piglet use home
+Most piglets use homes.
+0
+event
+98
+observation contribute to knowledge
+Most observations contribute to knowledge.
+1
+
+99
+environment become reproduction
+Most environments become reproduction.
+1
+
